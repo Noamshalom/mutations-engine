@@ -1,0 +1,1 @@
+Screenshots used by the main README. `extended-level-6.png`: level 6 of the extended game, solved. `tool-unrooted.png`: the sequence tool on the lecture example, unrooted view with reconstructed ancestral sequences.
