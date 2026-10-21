@@ -5,6 +5,8 @@
 Play the daily puzzle at **[mutationsgame.com](https://mutationsgame.com)**.
 Try the extended game and the sequence tool at **[mutationsgame.netlify.app](https://mutationsgame.netlify.app)**.
 
+<p align="center"><img src="docs/screenshots/demo.gif" width="600" alt="Solving a level of the extended game: placing creatures, marking each trait on its edge, revealing the hidden ancestors"></p>
+
 <p align="center">
   <img src="docs/screenshots/extended-level-6.png" width="48%" alt="Extended game: six creatures placed on the ends of an unrooted tree, every body part marked on the edge where it changes, hidden ancestors revealed">
   <img src="docs/screenshots/tool-unrooted.png" width="48%" alt="Sequence tool: an unrooted perfect phylogeny built from five DNA sequences, with reconstructed ancestral sequences">
